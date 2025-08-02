@@ -1,6 +1,6 @@
 {
   "name": "@muhammedv/powersync-attachments-for-node",
-  "version": "2.3.1-for-node.1",
+  "version": "2.3.1",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
